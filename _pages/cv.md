@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Artifical Intelligence for Autnomous Marine Vessels, Technical University of Denmark, 2019-2022 (expected)
+  * 5 Months research stay at the Autonomous Systemsl Lab - Stanford University
+* M.S. in Electrical Engineering (Automation and Control), Technical Univsersity of Denmark, 2014
+* B.S. in Electrical Engineering, Technical University of Denmark, 2012
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2015: Research & Development Engineer
+  * Propeller Control ApS
+  *  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2015: Research Assistant
+  * Technical University of Denmark
+  * Duties included: Writing scientific papers, maintaining and updating group software packages
+  * Supervisor: Professor Mogens Blanke
   
 Skills
 ======
@@ -48,12 +48,12 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Teaching
+#======
+#  <ul>{% for post in site.teaching %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
+#  
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams

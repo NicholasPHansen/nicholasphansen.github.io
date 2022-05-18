@@ -9,13 +9,13 @@ paperurl: 'https://doi.org/10.1016/j.ifacol.2020.12.1453'
 # citation: ``
 ---
 
-The paper is available for down here: [https://doi.org/10.1016/j.ifacol.2020.12.1453](https://doi.org/10.1016/j.ifacol.2020.12.1453)
+The paper is available for download [here](https://doi.org/10.1016/j.ifacol.2020.12.1453).
 
-You can download the slides from the presentation here: [slides]({{ site.url }}/files/presentations/IFAC 2020 - COLREGs-based Situation Awareness for Marine Vessels - a Discrete Event Systems Approach.pptx)
+You can download the slides from the presentation here: [slides]({{ site.url }}/files/presentations/IFAC 2020 - COLREGs-based Situation Awareness for Marine Vessels - a Discrete Event Systems Approach.pptx).
 
 If you want to cite this work, please use:
 ```
-    @article{2020HansenDES,
+@article{2020HansenDES,
     title = {COLREGs-based Situation Awareness for Marine Vessels - a Discrete Event Systems Approach.},
     journal = {IFAC-PapersOnLine},
     volume = {53},
@@ -25,5 +25,5 @@ If you want to cite this work, please use:
     issn = {2405-8963},
     doi = {https://doi.org/10.1016/j.ifacol.2020.12.1453},
     author = {P.N. Hansen and D. Papageorgiou and M. Blanke and R. Galeazzi and M. Lützen and J. Mogensen and M. Bennedsen and D. Hansen},
-    }
+}
 ```

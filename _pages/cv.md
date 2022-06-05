@@ -18,9 +18,20 @@ Education
 
 Work experience
 ======
+* 2016: Development Engineer
+  * Rokoko Electronics Inc. (Copenhagen, Denmark)
+  * Member of the hardware team responsible for the development of the Smartsuit Pro and Smart Glove, and more specifically:
+    - Development of algorithms and procedures for production and calibrationof IMU’s
+    - Assisted in the development of the sensor-fusion algorithms used for position and orientation estimation
+    - Responsible for software development operations in both hardware and software teams.
+
 * 2015: Research & Development Engineer
-  * Propeller Control ApS
-  *  
+  * Propeller Control ApS (Lyngby, Denmark)
+  * Responsible for the development and implementation of a potential fuel saving technology, funded by the BLUE INNO+, a part of the Danish Government fund Innovations Fonden.
+    - Developed a ship simulator in collaboration with DTU Maritime Technology, implemented in Octave and in C++
+    - Co-developed and implemented a new constant power control strategy currently being tested on-board Clementine Maersk
+    - Participated in two sea trials to test and verify the product
+    - Developed data analysis tools for performance assessments and comparisons in Python
 
 * 2015: Research Assistant
   * Technical University of Denmark
@@ -29,12 +40,17 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * C/C++ for embeded systems
+  * Python
+  * Matlab
+  * LaTeX
+#  * Sub-skill 2.3
+* Languages
+  * Danish (native)
+  * Swedish (native)
+  * English (fluent reading, writing & spoken)
+  * German (decent spoken)
 
 Publications
 ======
@@ -48,12 +64,3 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-#Teaching
-#======
-#  <ul>{% for post in site.teaching %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-#  
-#Service and leadership
-#======
-#* Currently signed in to 43 different slack teams

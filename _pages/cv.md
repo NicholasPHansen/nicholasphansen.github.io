@@ -45,7 +45,6 @@ Skills
   * Python
   * Matlab
   * LaTeX
-#  * Sub-skill 2.3
 * Languages
   * Danish (native)
   * Swedish (native)

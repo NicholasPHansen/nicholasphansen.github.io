@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Artifical Intelligence for Autnomous Marine Vessels, Technical University of Denmark, 2019-2022 (expected)
-  * 5 Months research stay at the Autonomous Systemsl Lab - Stanford University
+  * 5 Months research stay at the [Autonomous Systems Lab](https://stanfordasl.github.io) - Stanford University
 * M.S. in Electrical Engineering (Automation and Control), Technical Univsersity of Denmark, 2014
 * B.S. in Electrical Engineering, Technical University of Denmark, 2012
 

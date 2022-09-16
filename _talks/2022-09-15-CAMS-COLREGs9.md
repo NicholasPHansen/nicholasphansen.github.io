@@ -8,5 +8,5 @@ date: 2022-09-15
 location: "Kogens Lyngby, Denmark"
 ---
 During this talk I presented the results that were published in the .  
-The paper can be downloaded [here]({{ site.url }}/files/papers/HAnsen.ea.CAMS22.COLREGs9.pdf), or be found at [arxiv](https://arxiv.org/abs/2207.08227).
+The paper can be downloaded [here]({{ site.url }}/files/papers/Hansen.ea.CAMS22.COLREGs9.pdf), or be found at [arxiv](https://arxiv.org/abs/2207.08227).
 The slides can be downloaded [here]({{ site.url }}/files/presentations/CAMS22_pnha_colregs_rule_9.pptx).

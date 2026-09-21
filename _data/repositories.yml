@@ -1,0 +1,8 @@
+github_users:
+  - NicholasPHansen
+
+repo_description_lines_max: 2
+
+github_repos:
+  # TODO: list specific repos you want featured, e.g.
+  # - NicholasPHansen/some-repo

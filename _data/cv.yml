@@ -1,0 +1,120 @@
+cv:
+  name: Nicholas Hansen
+  label: Postdoctoral Fellow, Technical University of Denmark
+  location: Kongens Lyngby, Denmark
+  image: ""
+  summary: >
+    Robotics researcher with expertise in autonomous systems, situational awareness, and
+    decision-making under uncertainty. Experienced in bridging fundamental research with
+    real-world deployment, from sea trials and field robotics to large-scale dataset creation
+    and reproducible research infrastructure. Citizen of USA and Sweden, resident of Denmark.
+
+  social_networks:
+    - network: GitHub
+      username: nicholasphansen
+    - network: LinkedIn
+      username: nicholashansen
+
+  sections:
+    Experience:
+      - company: Technical University of Denmark
+        position: Postdoctoral Fellow
+        location: Kongens Lyngby, Denmark
+        start_date: 2023-05
+        summary: >
+          Contributed to the AI-NAVIGATOR project as one of two postdoctoral researchers,
+          investigating the formalization and learning of "good seamanship" from real-world
+          vessel behavior. A core output is the generation of a large-scale AIS dataset of
+          vessel interactions supporting current and future autonomous decision-making research.
+        highlights:
+          - "Supervised 9 MSc students across 7 projects, two resulting in peer-reviewed IFAC 2025 publications on harbour bus SLAM and multi-domain SLAM in GNSS denied environments"
+          - "Contributed to the writing of several national and European research proposals"
+          - "Established reproducible research infrastructure across the lab, including ROS-based development pipelines, standardized software stacks, and student project templates"
+
+      - company: Technical University of Denmark
+        position: PhD Researcher
+        location: Kongens Lyngby, Denmark
+        start_date: 2019-08
+        end_date: 2023-04
+        summary: >
+          Researched situational awareness for autonomous marine vessels as part of ShippingLab
+          Autonomy, a Danish national spearhead initiative towards autonomous waterborne mobility.
+        highlights:
+          - "Developed a discrete-event-systems-based framework for COLREGs-enabled situational awareness"
+          - "Developed a stochastic framework for uncertainty-aware COLREGs evaluation"
+          - "Visited the Autonomous Systems Laboratory at Stanford University under Prof. Marco Pavone for 5 months in 2022, applying self-driving car technologies to the maritime domain"
+
+      - company: Rokoko Electronics Inc.
+        position: Development Engineer
+        location: Copenhagen, Denmark
+        start_date: 2016-11
+        end_date: 2019-07
+        summary: >
+          Developed and optimized sensor fusion algorithms for IMU-based tracking, contributing
+          to the successful launch of the Smartsuit Pro.
+        highlights:
+          - "Real-time state estimation and system integration"
+          - "Cloud infrastructure and software best practices for large-scale hardware deployment"
+          - "Managed cross-team software development operations"
+
+      - company: Propeller Control ApS
+        position: Research & Development Engineer
+        location: Lyngby, Denmark
+        start_date: 2015-05
+        end_date: 2016-10
+        summary: >
+          Developed a ship simulator in C++/Octave and co-designed a constant power control
+          strategy for fuel optimization, as part of a government-funded innovation project.
+        highlights:
+          - "Successfully tested during two sea trials on the Clementine Maersk, showing a fuel saving of ~5%"
+          - "Built Python tools for performance analysis and operational evaluation"
+
+    Education:
+      - institution: Technical University of Denmark
+        location: Kongens Lyngby, Denmark
+        area: Situational Awareness for Autonomous Marine Vessels
+        studyType: PhD
+        start_date: 2019
+        end_date: 2023
+
+      - institution: Stanford University
+        location: Stanford, CA, USA
+        area: Autonomous Systems Laboratory (ASL), under Prof. Marco Pavone
+        studyType: Visiting PhD Researcher
+        start_date: 2022
+        end_date: 2022
+
+      - institution: Technical University of Denmark
+        location: Kongens Lyngby, Denmark
+        area: "Electrical Engineering -- Thesis: Underwater Robotic Systems for Inspection"
+        studyType: MSc
+        start_date: 2012
+        end_date: 2014
+
+      - institution: Technical University of Denmark
+        location: Kongens Lyngby, Denmark
+        area: "Electrical Engineering -- Thesis: Laser based navigation of Hexacopter"
+        studyType: BSc
+        start_date: 2008
+        end_date: 2012
+
+    Skills:
+      - name: Coding
+        keywords: "C/C++, Python, ROS, MATLAB, LaTeX"
+      - name: Machine Learning & Data Science
+        keywords: "Scikit-Learn, PyTorch, TensorFlow, Dask, NumPy, Pandas"
+      - name: IT & Infrastructure
+        keywords: "Amazon AWS, Docker, Kubernetes"
+
+    Languages:
+      - name: Danish
+        summary: "Native"
+      - name: Swedish
+        summary: "Native"
+      - name: English
+        summary: "Fluent"
+      - name: German
+        summary: "Decent spoken"
+
+# NOTE: publications aren't duplicated here -- _bibliography/papers.bib is the
+# source of truth and renders on the /publications/ page automatically.

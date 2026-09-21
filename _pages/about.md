@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: TODO&#58; PhD student, Technical University of Denmark (DTU)
+subtitle: Postdoctoral Fellow, Technical University of Denmark (DTU)
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Kongens Lyngby, Denmark</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,6 +25,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<!-- TODO: write your real bio here. -->
-
-I'm a PhD student at the Technical University of Denmark (DTU) researching safe autonomy for marine vessels.
+Robotics researcher with expertise in autonomous systems, situational awareness, and decision-making under uncertainty. Experienced in bridging fundamental research with real-world deployment, from sea trials and field robotics to large-scale dataset creation and reproducible research infrastructure. Citizen of USA and Sweden, resident of Denmark.

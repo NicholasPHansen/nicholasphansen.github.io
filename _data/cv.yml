@@ -1,75 +1,110 @@
 cv:
-  name: Nicholas P. Hansen
-  label: PhD Student, Technical University of Denmark
-  # email: # TODO: add if you want it public
+  name: Nicholas Hansen
+  label: Postdoctoral Fellow, Technical University of Denmark
   location: Kongens Lyngby, Denmark
   image: ""
-  summary: "" # TODO
+  summary: >
+    Robotics researcher with expertise in autonomous systems, situational awareness, and
+    decision-making under uncertainty. Experienced in bridging fundamental research with
+    real-world deployment, from sea trials and field robotics to large-scale dataset creation
+    and reproducible research infrastructure. Citizen of USA and Sweden, resident of Denmark.
 
   social_networks:
     - network: GitHub
-      username: NicholasPHansen
+      username: nicholasphansen
+    - network: LinkedIn
+      username: nicholashansen
 
   sections:
-    Education:
-      - institution: Technical University of Denmark
-        location: Kongens Lyngby, Denmark
-        area: Artificial Intelligence for Autonomous Marine Vessels
-        studyType: PhD
-        start_date: 2019
-        end_date: 2022
-        highlights:
-          - "5 month research stay at the Autonomous Systems Lab, Stanford University"
-
-      - institution: Technical University of Denmark
-        location: Kongens Lyngby, Denmark
-        area: Electrical Engineering (Automation and Control)
-        studyType: MSc
-        end_date: 2014
-
-      - institution: Technical University of Denmark
-        location: Kongens Lyngby, Denmark
-        area: Electrical Engineering
-        studyType: BSc
-        end_date: 2012
-
     Experience:
+      - company: Technical University of Denmark
+        position: Postdoctoral Fellow
+        location: Kongens Lyngby, Denmark
+        start_date: 2023-05
+        summary: >
+          Contributed to the AI-NAVIGATOR project as one of two postdoctoral researchers,
+          investigating the formalization and learning of "good seamanship" from real-world
+          vessel behavior. A core output is the generation of a large-scale AIS dataset of
+          vessel interactions supporting current and future autonomous decision-making research.
+        highlights:
+          - "Supervised 9 MSc students across 7 projects, two resulting in peer-reviewed IFAC 2025 publications on harbour bus SLAM and multi-domain SLAM in GNSS denied environments"
+          - "Contributed to the writing of several national and European research proposals"
+          - "Established reproducible research infrastructure across the lab, including ROS-based development pipelines, standardized software stacks, and student project templates"
+
+      - company: Technical University of Denmark
+        position: PhD Researcher
+        location: Kongens Lyngby, Denmark
+        start_date: 2019-08
+        end_date: 2023-04
+        summary: >
+          Researched situational awareness for autonomous marine vessels as part of ShippingLab
+          Autonomy, a Danish national spearhead initiative towards autonomous waterborne mobility.
+        highlights:
+          - "Developed a discrete-event-systems-based framework for COLREGs-enabled situational awareness"
+          - "Developed a stochastic framework for uncertainty-aware COLREGs evaluation"
+          - "Visited the Autonomous Systems Laboratory at Stanford University under Prof. Marco Pavone for 5 months in 2022, applying self-driving car technologies to the maritime domain"
+
       - company: Rokoko Electronics Inc.
         position: Development Engineer
         location: Copenhagen, Denmark
-        start_date: 2016
-        end_date: 2016
+        start_date: 2016-11
+        end_date: 2019-07
+        summary: >
+          Developed and optimized sensor fusion algorithms for IMU-based tracking, contributing
+          to the successful launch of the Smartsuit Pro.
         highlights:
-          - "Member of the hardware team responsible for the Smartsuit Pro and Smart Glove"
-          - "Developed algorithms and procedures for production and calibration of IMUs"
-          - "Assisted in developing the sensor-fusion algorithms used for position and orientation estimation"
-          - "Responsible for software development operations across hardware and software teams"
+          - "Real-time state estimation and system integration"
+          - "Cloud infrastructure and software best practices for large-scale hardware deployment"
+          - "Managed cross-team software development operations"
 
       - company: Propeller Control ApS
         position: Research & Development Engineer
         location: Lyngby, Denmark
-        start_date: 2015
-        end_date: 2015
-        summary: "Development and implementation of a potential fuel-saving technology, funded by BLUE INNO+ (Innovationsfonden)"
+        start_date: 2015-05
+        end_date: 2016-10
+        summary: >
+          Developed a ship simulator in C++/Octave and co-designed a constant power control
+          strategy for fuel optimization, as part of a government-funded innovation project.
         highlights:
-          - "Developed a ship simulator in collaboration with DTU Maritime Technology (Octave and C++)"
-          - "Co-developed and implemented a new constant power control strategy tested on-board Clementine Maersk"
-          - "Participated in two sea trials to test and verify the product"
-          - "Developed data analysis tools for performance assessment and comparison in Python"
+          - "Successfully tested during two sea trials on the Clementine Maersk, showing a fuel saving of ~5%"
+          - "Built Python tools for performance analysis and operational evaluation"
 
-      - company: Technical University of Denmark
-        position: Research Assistant
+    Education:
+      - institution: Technical University of Denmark
         location: Kongens Lyngby, Denmark
-        start_date: 2015
-        end_date: 2015
-        summary: "Supervisor: Professor Mogens Blanke"
-        highlights:
-          - "Wrote scientific papers"
-          - "Maintained and updated group software packages"
+        area: Situational Awareness for Autonomous Marine Vessels
+        studyType: PhD
+        start_date: 2019
+        end_date: 2023
+
+      - institution: Stanford University
+        location: Stanford, CA, USA
+        area: Autonomous Systems Laboratory (ASL), under Prof. Marco Pavone
+        studyType: Visiting PhD Researcher
+        start_date: 2022
+        end_date: 2022
+
+      - institution: Technical University of Denmark
+        location: Kongens Lyngby, Denmark
+        area: "Electrical Engineering -- Thesis: Underwater Robotic Systems for Inspection"
+        studyType: MSc
+        start_date: 2012
+        end_date: 2014
+
+      - institution: Technical University of Denmark
+        location: Kongens Lyngby, Denmark
+        area: "Electrical Engineering -- Thesis: Laser based navigation of Hexacopter"
+        studyType: BSc
+        start_date: 2008
+        end_date: 2012
 
     Skills:
-      - name: Programming
-        keywords: "C/C++ (embedded), Python, MATLAB, LaTeX"
+      - name: Coding
+        keywords: "C/C++, Python, ROS, MATLAB, LaTeX"
+      - name: Machine Learning & Data Science
+        keywords: "Scikit-Learn, PyTorch, TensorFlow, Dask, NumPy, Pandas"
+      - name: IT & Infrastructure
+        keywords: "Amazon AWS, Docker, Kubernetes"
 
     Languages:
       - name: Danish
@@ -77,7 +112,7 @@ cv:
       - name: Swedish
         summary: "Native"
       - name: English
-        summary: "Fluent (reading, writing & spoken)"
+        summary: "Fluent"
       - name: German
         summary: "Decent spoken"
 

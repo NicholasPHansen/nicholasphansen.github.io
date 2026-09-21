@@ -1,8 +1,10 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-# cv_pdf: # path to your CV PDF file, e.g. /assets/pdf/cv.pdf
-# email: # your email address -- TODO: add if you want it public on the site
-# rss_icon: true # comment this line to hide the RSS icon
-# scholar_userid: # your Google Scholar ID
-# github: # your GitHub username -- see jekyll-socials docs for the exact key
+# cv_pdf: # left out intentionally -- the CV PDF has your personal email in it
+# email: # left out intentionally -- add here if you want it public
+github_username: nicholasphansen
+linkedin_username: nicholashansen
+orcid_id: 0000-0001-9972-1649
+rss_icon: true # comment this line to hide the RSS icon
+# scholar_userid: # CV lists a Scopus H-index (8) but no Google Scholar profile ID

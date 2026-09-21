@@ -1,0 +1,85 @@
+cv:
+  name: Nicholas P. Hansen
+  label: PhD Student, Technical University of Denmark
+  # email: # TODO: add if you want it public
+  location: Kongens Lyngby, Denmark
+  image: ""
+  summary: "" # TODO
+
+  social_networks:
+    - network: GitHub
+      username: NicholasPHansen
+
+  sections:
+    Education:
+      - institution: Technical University of Denmark
+        location: Kongens Lyngby, Denmark
+        area: Artificial Intelligence for Autonomous Marine Vessels
+        studyType: PhD
+        start_date: 2019
+        end_date: 2022
+        highlights:
+          - "5 month research stay at the Autonomous Systems Lab, Stanford University"
+
+      - institution: Technical University of Denmark
+        location: Kongens Lyngby, Denmark
+        area: Electrical Engineering (Automation and Control)
+        studyType: MSc
+        end_date: 2014
+
+      - institution: Technical University of Denmark
+        location: Kongens Lyngby, Denmark
+        area: Electrical Engineering
+        studyType: BSc
+        end_date: 2012
+
+    Experience:
+      - company: Rokoko Electronics Inc.
+        position: Development Engineer
+        location: Copenhagen, Denmark
+        start_date: 2016
+        end_date: 2016
+        highlights:
+          - "Member of the hardware team responsible for the Smartsuit Pro and Smart Glove"
+          - "Developed algorithms and procedures for production and calibration of IMUs"
+          - "Assisted in developing the sensor-fusion algorithms used for position and orientation estimation"
+          - "Responsible for software development operations across hardware and software teams"
+
+      - company: Propeller Control ApS
+        position: Research & Development Engineer
+        location: Lyngby, Denmark
+        start_date: 2015
+        end_date: 2015
+        summary: "Development and implementation of a potential fuel-saving technology, funded by BLUE INNO+ (Innovationsfonden)"
+        highlights:
+          - "Developed a ship simulator in collaboration with DTU Maritime Technology (Octave and C++)"
+          - "Co-developed and implemented a new constant power control strategy tested on-board Clementine Maersk"
+          - "Participated in two sea trials to test and verify the product"
+          - "Developed data analysis tools for performance assessment and comparison in Python"
+
+      - company: Technical University of Denmark
+        position: Research Assistant
+        location: Kongens Lyngby, Denmark
+        start_date: 2015
+        end_date: 2015
+        summary: "Supervisor: Professor Mogens Blanke"
+        highlights:
+          - "Wrote scientific papers"
+          - "Maintained and updated group software packages"
+
+    Skills:
+      - name: Programming
+        keywords: "C/C++ (embedded), Python, MATLAB, LaTeX"
+
+    Languages:
+      - name: Danish
+        summary: "Native"
+      - name: Swedish
+        summary: "Native"
+      - name: English
+        summary: "Fluent (reading, writing & spoken)"
+      - name: German
+        summary: "Decent spoken"
+
+# NOTE: publications aren't duplicated here -- _bibliography/papers.bib is the
+# source of truth and renders on the /publications/ page automatically.

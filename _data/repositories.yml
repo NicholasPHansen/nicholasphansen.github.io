@@ -4,5 +4,6 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  # TODO: list specific repos you want featured, e.g.
+  - NicholasPHansen/dockhand
+  # TODO: list more specific repos you want featured, e.g.
   # - NicholasPHansen/some-repo
